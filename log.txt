@@ -1,0 +1,8 @@
+Sat May 12 02:12:26 2018	Log: Pavel           Pass: 12345           a         
+Sat May 12 02:12:55 2018	Log: Vlad            Pass: qwerty          o         
+Sat May 12 02:13:08 2018	Log: Pavel           Pass: qwerty          ERROR     
+Sat May 12 02:13:30 2018	Log: Pavel           Pass: qwerty12345     ERROR     
+Sat May 12 02:13:39 2018	Log: Pavel           Pass: qwerty12345     ERROR     
+Sat May 12 02:14:15 2018	Log: Pavel           Pass: 12345           a         
+Sat May 12 02:14:32 2018	Log: Pavel           Pass: lol69           m         
+Sat May 12 02:21:48 2018	Log: Pavel           Pass: 12345           a         
